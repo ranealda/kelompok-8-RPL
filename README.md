@@ -9,7 +9,7 @@
 
 <h1>KELOMPOK 8</h1>
 
-<h3>CYBERPUNK • HACKER • INNOVATION</h3>
+<h3>DEVELOP • COLLABORATE • INNOVATE</h3>
 
 <p>
   Welcome to our team repository!
